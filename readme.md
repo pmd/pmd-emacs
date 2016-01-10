@@ -1,5 +1,5 @@
 # PMD Emacs
-Major mode for pluging PMD into Emacs.
+Major mode for plugging PMD into Emacs.
 
 ## Change History
 
