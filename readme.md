@@ -3,6 +3,11 @@ Major mode for plugging PMD into Emacs.
 
 ## Change History
 
+* **2016-01-14 0.8**:
+
+  - Fixed license link
+  - Create tag for release
+
 * **2013-08-16 0.7**: Ernst Reissner
 
   - Updated to work with PMD 5.0.2 and 5.0.5
