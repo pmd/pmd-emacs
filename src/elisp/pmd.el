@@ -1,4 +1,4 @@
-;;; pmd.el --- Major mode for pluging PMD into Emacs.
+;;; pmd.el --- Major mode for plugging PMD into Emacs.
 
 ;; Author: John Russell <drjimmy42 at yahoo.com>
 ;; Maintainer: Nascif A. Abousalh-Neto <nascif at acm.org>
@@ -64,6 +64,7 @@
 
 ;; ???? 0.9:
 ;; - [PR#5](https://github.com/pmd/pmd-emacs/pull/5): Make pmd.el non-executable
+;; - [PR#6](https://github.com/pmd/pmd-emacs/pull/6): Fix trivial typo
 
 ;; 2016-01-14 0.8:
 ;; - Fixed license link
