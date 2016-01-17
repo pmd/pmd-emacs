@@ -62,6 +62,9 @@
 
 ;; Change History 
 
+;; ???? 0.9:
+;; - [PR#5](https://github.com/pmd/pmd-emacs/pull/5): Make pmd.el non-executable
+
 ;; 2016-01-14 0.8:
 ;; - Fixed license link
 ;; - Create tag for release
